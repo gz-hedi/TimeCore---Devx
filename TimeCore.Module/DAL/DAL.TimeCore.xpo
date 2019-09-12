@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="0bae8407-1872-4495-8fd8-35f02093f2a6" namespace="DAL.TimeCore" dataBaseShemaInfo="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" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" fieldNamePrefix="_" generateDefaultConstructors="false" useNameOf="true" connectionStringName="(localdb)mssqllocaldbTimeCore" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="237d864b-c24f-4090-b698-0f3bc017823b">
+      <externalPersistentType Id="9134eedf-1d28-44ab-802a-2b7792d43f79" name="DevExpress.Persistent.BaseImpl.BaseObject" nameSpace="DevExpress.Persistent.BaseImpl" virtualName="BaseObject" assemblyName="C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.BaseImpl.v19.1\v4.0_19.1.3.0__b88d1754d700e49a\DevExpress.Persistent.BaseImpl.v19.1.dll" deferredDeletion="False" optimisticLocking="False" hasDefaultConstructor="true" constructorParameterType="Session" hasSessionSpecifiedConstructor="false">
+        <fields>
+          <generalXpObjectHasFields Id="10deb215-1dac-422b-8dd3-d8d9c32d14e0">
+            <externalPersistentTypeField Id="c86f4b59-dc6b-4086-a781-859fcc2181f9" name="oid" virtualColumnType="Guid" key="true" />
+          </generalXpObjectHasFields>
+        </fields>
+      </externalPersistentType>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="d144bd99-38d5-466e-be4b-d6ee41f97ff9">
+      <xpObject Id="b41f2004-2dae-49cb-9826-43c59c2a3970" name="WorkTimeSlot" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="WorkTimeSlot" designerFileName="WorkTimeSlot.Designer" className="WorkTimeSlot" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="WorkTimeSlot">
+        <fields>
+          <generalXpObjectHasFields Id="ec31f8a0-d794-4a43-9fe9-a474305cb524">
+            <field Id="0d946cf3-ed01-4e89-a148-9a6471343d57" name="Code" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="14a198da-b397-426d-adb5-f71c8ef29835">
+            <field Id="3e2cf98a-a642-4703-ae72-12f153103f8e" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c6736d5e-81f8-4fc6-a162-e84dd2508a0c">
+            <field Id="63e16116-f247-4437-8302-bd098bf4ba09" name="TimeStart" columnType="TimeSpan" virtualColumnType="TimeSpan" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c5321449-4503-472f-b392-045f8d2c7c48">
+            <field Id="602efa6a-7e86-405b-9da1-a513bf0a551e" name="TimeEnd" columnType="TimeSpan" virtualColumnType="TimeSpan" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <aggrTarget>
+          <aggregation Id="ce02fe14-80a8-4da5-9e42-14bb983d6fde" sourceCollectionName="TimeTableDetailTimeSlots" name="TimeTableDetailTimeSlotReferencesTimeSlot" targetFieldName="TimeSlot">
+            <xpObjectMoniker Id="51bfb822-507d-4c08-8313-0d0994369b6c" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="796c7a91-f1e9-4383-9b4d-0bb06ce7e060">
+            <collectionField Id="d950e8d8-003c-4c51-a1b7-42a07f474496" name="TimeTableDetailTimeSlots" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="46050c3a-47a7-45f4-8017-e02cf202bf31">
+      <xpObject Id="236a9f6f-d66c-4a13-b1c9-93f71f3f1272" name="TimeTable" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="TimeTable" designerFileName="TimeTable.Designer" className="TimeTable" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="TimeTable">
+        <fields>
+          <generalXpObjectHasFields Id="a72fa87f-220d-44a0-b233-a3af18b2691c">
+            <field Id="53e1572d-ab34-4d97-899f-a46ee116c687" name="Code" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="230aee8a-f8fb-4049-be47-496d74b699d3">
+            <field Id="989a6cdd-f9c3-4720-bdae-65c2412b9548" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="01978bc5-9911-411b-9e4a-873800df6cf0">
+            <field Id="e8a500b8-6b64-411f-89eb-ff4a17c5cd0a" name="Kind" virtualColumnType="DAL.TimeCore.TimeTableKind" logicalType="DAL.TimeCore.TimeTableKind" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="88fa1413-c084-4cb6-b7ea-0fc93bb2e45c">
+            <field Id="f5632114-d42e-4c90-b64a-44895fee4e6f" name="Frequency" columnType="Int32" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="64882539-8a29-4d0b-af40-462692fbae1f">
+            <field Id="f9b40178-8641-4d2a-a8d3-c194729e12d5" name="FirstDayOfWeek" columnType="Int32" virtualColumnType="System.DayOfWeek" logicalType="System.DayOfWeek" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <aggrTarget>
+          <aggregation Id="4c72b8c7-95b7-4719-ad26-8c747f11799c" sourceCollectionName="UserTimeTables" name="UserTimeTableReferencesTimeTable" targetFieldName="TimeTable">
+            <xpObjectMoniker Id="8f5339b9-2059-40d5-8bd4-9929d7bf8ec4" />
+          </aggregation>
+          <aggregation Id="3a955136-1ca0-477f-9b0f-2aea01165a48" sourceCollectionName="TimeTableDetails" name="TimeTableDetailTimeSlotReferencesTimeTable" targetFieldName="TimeTable">
+            <xpObjectMoniker Id="51bfb822-507d-4c08-8313-0d0994369b6c" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="f2598fd3-ad8b-44ef-9f3b-4e0d4e447400">
+            <collectionField Id="6ea7f9c5-563e-4eda-8a9c-39a67e2b5a3e" name="UserTimeTables" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="ec8dbd0e-37e2-4803-815f-b6b1073aa38c">
+            <collectionField Id="65b02a26-3d1a-4f4f-8ea1-1235cfdfde1a" name="TimeTableDetails" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="393cc3e2-265c-493c-9fb0-6978b258b7b8">
+      <xpObject Id="51bfb822-507d-4c08-8313-0d0994369b6c" name="TimeTableDetail" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="TimeTableDetail" designerFileName="TimeTableDetail.Designer" className="TimeTableDetail" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="TimeTableDetail">
+        <fields>
+          <generalXpObjectHasFields Id="15e94b48-eda1-4cad-9c9c-8c356379ca73">
+            <field Id="40eeccf0-e72a-4c9c-b50e-c2c66de07efb" name="TimeTable" columnType="TimeSpan" virtualColumnType="TimeTable" logicalType="TimeTable" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="795f0db1-efb2-40d6-b7ad-3cf5791cd662">
+            <field Id="44a8f8ef-da8d-468b-80f6-95842af1c470" name="DayNum" columnType="Int32" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="3b18cfd9-92ad-460e-8d82-0f904c648e14">
+            <field Id="7ac9b7d9-cf25-46d4-89a0-e590fcd6000d" name="TimeSlot" virtualColumnType="WorkTimeSlot" logicalType="WorkTimeSlot" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="fc834f5c-a7f2-40b5-af65-2585bfc3e7b9">
+            <field Id="afb668e8-44c5-4cd6-b710-e2f7114e9316" name="TimeSlotNum" columnType="Int32" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="b11ecff6-37a2-457a-98d1-1c5e7a5a25e9">
+      <xpObject Id="6900f34a-4edb-4638-a4d6-4acd90400605" name="User" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="User" designerFileName="User.Designer" className="User" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="User">
+        <fields>
+          <generalXpObjectHasFields Id="a43bf4b7-c0e8-417d-8593-cbdac1e169ad">
+            <field Id="7ca7612c-cbf7-4e85-b435-097a7d1c426d" name="Code" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <aggrTarget>
+          <aggregation Id="72481f9d-0db7-4104-9a1d-3b52fc643dd5" sourceCollectionName="DepartmentUsers" name="DepartmentUserReferencesUser" targetFieldName="User">
+            <xpObjectMoniker Id="4b2a27d4-1368-4d5c-8472-e257073b924c" />
+          </aggregation>
+          <aggregation Id="347f6912-d686-456f-acd5-409fc6da7548" sourceCollectionName="TimeTableAffectations" name="TimeTableAffectationReferencesUser" targetFieldName="User">
+            <xpObjectMoniker Id="8f5339b9-2059-40d5-8bd4-9929d7bf8ec4" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="ed6eb5d0-3795-4fcf-9b94-adb325b7d17e">
+            <collectionField Id="df68f9a4-1656-4143-a450-73ff74000adf" name="DepartmentUsers" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="2303cbc2-fe8b-40b6-a7cc-bc2f55f02366">
+            <collectionField Id="aafcbe01-4dc4-4c57-81b5-272c3bc2ef75" name="TimeTableAffectations" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="283f07e5-0148-46ae-900c-ece8e9178e90">
+      <xpObject Id="8f5339b9-2059-40d5-8bd4-9929d7bf8ec4" name="TimeTableAffectation" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="UserTimeTable" designerFileName="UserTimeTable.Designer" className="TimeTableAffectation" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="TimeTableAffectation">
+        <fields>
+          <generalXpObjectHasFields Id="218c366c-8106-489b-b59f-1ecc75c7c31f">
+            <field Id="a726e04d-8b66-41eb-9a83-3540d74ef843" name="User" columnType="UInt16" virtualColumnType="User" logicalType="User" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="63e63f31-32a1-4c30-9860-99794b41685b">
+            <field Id="2eb58da8-d8bc-495e-90e3-c029470583b7" name="TimeTable" columnType="TimeSpan" virtualColumnType="TimeTable" logicalType="TimeTable" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a65fb37f-d904-4408-8db5-5524ebadf2c1">
+            <field Id="eea7b790-52cc-4e7d-ad70-fc2aadf44816" name="StartDay" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="46fba7cb-336c-43cb-92de-a21eeef28cdc">
+            <field Id="c3e51bd5-3657-4989-bcd6-f98564e58363" name="EndDay" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="51636948-c38a-4563-99e0-29a317a263b5">
+      <xpObject Id="42060d2b-99e5-461a-839b-85bf12c39afc" name="Department" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="Departement" designerFileName="Departement.Designer" className="Department" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="Department">
+        <aggrTarget>
+          <aggregation Id="c3a8a632-03f5-45e8-83f4-4a570fa7ad6e" sourceCollectionName="DepartmentUsers" name="DepartmentUserReferencesDepartement" targetFieldName="Department">
+            <xpObjectMoniker Id="4b2a27d4-1368-4d5c-8472-e257073b924c" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="2a07123a-6c73-4238-b27e-99f042edbb63">
+            <collectionField Id="780a38f6-08ab-4f2a-9aab-be40df1902e2" name="DepartmentUsers" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="302cfe60-11f8-40b5-8873-e826d0f3ba60">
+      <xpObject Id="4b2a27d4-1368-4d5c-8472-e257073b924c" name="DepartmentUser" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="DepartmentUser" designerFileName="DepartmentUser.Designer" className="DepartmentUser" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="DepartmentUser">
+        <fields>
+          <generalXpObjectHasFields Id="b2c9a2b2-0185-4672-8a7c-fecab1ece5e6">
+            <field Id="22993412-90c5-477e-b6bd-93f9fbf72d27" name="User" columnType="UInt64" virtualColumnType="User" logicalType="User" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9a8cc7ea-4f8b-4a5b-9941-57ed670bd75f">
+            <field Id="baea91b3-07fe-4391-9efd-86a6925f60f7" name="Department" virtualColumnType="Department" logicalType="Department" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="5cff8e24-7536-4b94-8467-dbe9430fec1e">
+            <field Id="47ef07eb-9310-4e3e-809a-aa979b2123ed" name="StartDate" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="5a49ae0f-5425-4437-b409-945c747729c7">
+            <field Id="8beb900f-03de-4059-9fcf-1b71de7595dd" name="EndDate" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="37be5dad-aa5d-403f-a84a-1efbbf3201a1">
+      <xpObject Id="e2c533e2-c5f9-409e-9d15-167dfdcacc87" name="WorkBreak" baseClass="XPObject" userFileName="WorkBreak" designerFileName="WorkBreak.Designer" className="WorkBreak" virtualName="WorkBreak">
+        <fields>
+          <generalXpObjectHasFields Id="043cd035-352d-458e-8b92-936ecb6e4b91">
+            <field Id="269fc688-eea3-42e9-9289-0a89c6dda5d9" name="Code" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4d3a88d6-6148-4182-9083-ac85cc551191">
+            <field Id="9ac3eefc-a142-4b7a-9c61-d3dac941d24b" name="WorkTimeSlot" virtualColumnType="WorkTimeSlot" logicalType="WorkTimeSlot" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="22512209-d90a-4ff7-a0d6-950607af5070">
+            <field Id="44b62072-5896-4a14-b820-337288eff1a7" name="TimeStart" columnType="TimeSpan" virtualColumnType="TimeSpan" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="2a3a7215-6264-400d-becd-7b0b9017f9a1">
+            <field Id="437f0361-c71e-4f64-9cf4-fa36e2631653" name="TimeEnd" columnType="TimeSpan" virtualColumnType="TimeSpan" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+  <externalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="575ad509-6de0-4e38-bf66-06b262458ba3">
+      <externalType Id="529a8045-dfda-4355-8a56-0749c793c968" name="TimeTableKind" namespace="DAL.TimeCore" />
+    </dataBaseObjectModelHasExternalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="50255cf3-d43a-4f69-b89a-ed18a8e00815">
+      <externalType Id="63639fec-ee00-4eb6-b62e-519fcbb569cd" name="DayOfWeek" namespace="System" />
+    </dataBaseObjectModelHasExternalTypes>
+  </externalTypes>
+</dataBaseObjectModel>
